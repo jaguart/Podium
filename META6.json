@@ -1,0 +1,25 @@
+{
+  "auth": "zef:jaguart",
+  "authors": [
+    "Jeff Armstrong"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "A soapbox for POD",
+  "license": "Artistic-2.0",
+  "name": "Podium",
+  "perl": "6.d",
+  "provides": {
+    "Podium": "lib/Podium.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/jaguart/Podium.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
