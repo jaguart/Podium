@@ -7,7 +7,7 @@
   ],
   "depends": [
   ],
-  "description": "A soapbox for POD",
+  "description": "A soapbox for POD6.",
   "license": "Artistic-2.0",
   "name": "Podium",
   "perl": "6.d",

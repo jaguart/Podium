@@ -7,7 +7,7 @@ unit class Podium;
 
 =head1 NAME
 
-Podium - A soapbox for POD
+Podium - A soapbox for POD6.
 
 =head1 SYNOPSIS
 

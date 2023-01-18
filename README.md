@@ -1,7 +1,7 @@
 NAME
 ====
 
-Podium - A soapbox for POD
+Podium - A soapbox for POD6.
 
 SYNOPSIS
 ========
